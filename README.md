@@ -57,8 +57,15 @@ You are a rookie courier in a neon-drenched, low-poly megacity that runs on a fr
 - **Collectible data shards** unlock cosmetic palette swaps.
 - **Per-level leaderboard** for friendly competition.
 
-## Story Summary
+## Story Summary (Little-Planet-Style Meaning)
 A rookie courier team is tasked with restoring power to a city whose energy grid is failing. Each level is a district you help stabilize, culminating in the restoration of the central power core.
+
+As you reconnect the city, the story reveals that the “power packets” are memories created by citizens: their hopes, kindness, and creativity. The courier’s journey is a metaphor for community care—when people share what they love, the whole city thrives. The final delivery restores not just electricity, but a sense of connection, reminding players that small acts can light up an entire world.
+
+## Themes & Message
+- **Creativity powers communities**: The city glows when people contribute their ideas and care.
+- **Small actions matter**: Each delivery, no matter how small, helps everyone.
+- **Cooperation beats isolation**: Side routes reward helping NPCs, showing that teamwork unlocks progress.
 
 ## Target Platforms
 - PC and modern consoles
